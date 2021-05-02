@@ -7,3 +7,11 @@
 **Thoughts:** I would like to do some Javascript since I am familier with C++/JAVA/Python 
 
 **Link to work:** N/A
+
+### Day 1: May 2, 2021 
+
+**Today's Progress**: Refreshing my knowledge on Javascript for everything (1.5 hr)
+
+**Thoughts:** I would start to refreshing other stuff based on the skilltree http://skill.phodal.com/#_a2_1_Name 
+
+**Link to work:** N/A (just refreshing)
