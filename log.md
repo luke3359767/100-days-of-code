@@ -14,4 +14,13 @@
 
 **Thoughts:** I would start to refreshing other stuff based on the skilltree http://skill.phodal.com/#_a2_1_Name 
 
-**Link to work:** N/A (just refreshing)
+**Link to work:** https://www.youtube.com/watch?v=PkZNo7MFNFg (source)
+
+
+### Day 2: May 3, 2021 
+
+**Today's Progress**: Refreshing my knowledge on CSS and HTML (1hr)
+
+**Thoughts:** I will use freecodecamp to refresh my knowledge. Until I finish learning React.js
+
+**Link to work:** https://www.freecodecamp.org/ (just refreshing)
