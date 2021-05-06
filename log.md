@@ -39,3 +39,11 @@
 **Thoughts:** I think I should spend more time on doing this, and I also need to practice until I'm really familier with it.
 
 **Link to work:** https://www.freecodecamp.org/ 
+
+
+### Day 5: May 6, 2021 
+**Today's Progress**: refreshing my knowledge on CSS about Flex
+
+**Thoughts:** I think I can finish my refreshing pretty soon. I would like to make several project after that, then learn some framework
+
+**Link to work:** https://www.freecodecamp.org/ 
