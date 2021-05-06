@@ -32,3 +32,10 @@
 **Thoughts:** I will use freecodecamp to refresh my knowledge. Until I finish learning React.js (same thought)
 
 **Link to work:** https://www.freecodecamp.org/ 
+
+### Day 4: May 5, 2021 
+**Today's Progress**: Finish refreshing my knowledge on CSS abour responsive website (1hr)
+
+**Thoughts:** I think I should spend more time on doing this, and I also need to practice until I'm really familier with it.
+
+**Link to work:** https://www.freecodecamp.org/ 
