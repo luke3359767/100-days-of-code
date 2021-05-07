@@ -47,3 +47,11 @@
 **Thoughts:** I think I can finish my refreshing pretty soon. I would like to make several project after that, then learn some framework
 
 **Link to work:** https://www.freecodecamp.org/ 
+
+### Day 6: May 7, 2021 
+**Today's Progress**: Finish a project about a tribute page of Napoleon using html and css
+
+**Thoughts:** This project is quite easy, I'll try the harder next time.
+
+**Link to work:** https://github.com/luke3359767/Projects/blob/main/WebProject/TributePage.html
+
