@@ -55,3 +55,10 @@
 
 **Link to work:** https://github.com/luke3359767/Projects/blob/main/WebProject/TributePage.html
 
+### Day 7: May 8, 2021 
+**Today's Progress**: Finish a project about making a survey form
+
+**Thoughts:** This project is harder than the previous one. Next time I will make a product landing page.
+
+**Link to work:** https://github.com/luke3359767/Projects/blob/main/WebProject/TributePage.html
+
