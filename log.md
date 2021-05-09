@@ -62,3 +62,10 @@
 
 **Link to work:** https://github.com/luke3359767/Projects/blob/main/WebProject/SurveyForm.html
 
+
+### Day 8: May 9, 2021 
+**Today's Progress**: Making a project about product landing page (70% done) 
+
+**Thoughts:** I just wonder why I keep mislebeling class and id for html 
+
+**Link to work:** (Not Done)
