@@ -69,3 +69,10 @@
 **Thoughts:** I just wonder why I keep mislebeling class and id for html 
 
 **Link to work:** (Not Done)
+
+### Day 9: May 10, 2021 
+**Today's Progress**: Finish a project about product landing page and start doing Technical Documentation Page 
+
+**Thoughts:** I feel more comfortable on making web now.
+
+**Link to work:** https://github.com/luke3359767/Projects/blob/main/WebProject/ProductLandingPage.html (product landing page)
