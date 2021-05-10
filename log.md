@@ -82,4 +82,4 @@
 
 **Thoughts:** Cool. I never thought my prograss can be that fast.
 
-**Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/TechnicalDocumentationPage.html (product landing page)
+**Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/TechnicalDocumentationPage.html 
