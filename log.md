@@ -53,14 +53,14 @@
 
 **Thoughts:** This project is quite easy, I'll try the harder next time.
 
-**Link to work:** https://github.com/luke3359767/Projects/blob/main/WebProject/TributePage.html
+**Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/TributePage.html
 
 ### Day 7: May 8, 2021 
 **Today's Progress**: Finish a project about making a survey form
 
 **Thoughts:** This project is harder than the previous one. Next time I will make a product landing page.
 
-**Link to work:** https://github.com/luke3359767/Projects/blob/main/WebProject/SurveyForm.html
+**Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/SurveyForm.html
 
 
 ### Day 8: May 9, 2021 
@@ -75,4 +75,11 @@
 
 **Thoughts:** I feel more comfortable on making web now.
 
-**Link to work:** https://github.com/luke3359767/Projects/blob/main/WebProject/ProductLandingPage.html (product landing page)
+**Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/ProductLandingPage.html (product landing page)
+
+### Day 10: May 11, 2021 
+**Today's Progress**: Finish a project about Technical Documentation Page 
+
+**Thoughts:** Cool. I never thought my prograss can be that fast.
+
+**Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/TechnicalDocumentationPage.html (product landing page)
