@@ -83,3 +83,11 @@
 **Thoughts:** Cool. I never thought my prograss can be that fast.
 
 **Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/TechnicalDocumentationPage.html 
+
+### Day 10: May 11, 2021 
+**Today's Progress**: Finish a project about Personal Protfolio page
+
+**Thoughts:** I claim the cert from freecodecamp. Next stop, Javascript and data structure!
+
+**Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/PersonalPortfolio.html
+
