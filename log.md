@@ -84,10 +84,19 @@
 
 **Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/TechnicalDocumentationPage.html 
 
-### Day 10: May 11, 2021 
+### Day 11: May 12, 2021 
 **Today's Progress**: Finish a project about Personal Protfolio page
 
 **Thoughts:** I claim the cert from freecodecamp. Next stop, Javascript and data structure!
 
 **Link to work:** https://htmlpreview.github.io/?https://github.com/luke3359767/Projects/blob/main/WebProject/PersonalPortfolio.html
+
+
+### Day 12: May 13, 2021 
+**Today's Progress**:  Refreshing my knowledge on JS
+
+**Thoughts:** I will spend 3~4 days on it ( including regular expression), then I can get into frameworks.
+
+**Link to work:** https://www.freecodecamp.org/ 
+
 
