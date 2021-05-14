@@ -100,3 +100,11 @@
 **Link to work:** https://www.freecodecamp.org/ 
 
 
+
+
+### Day 12: May 13, 2021 
+**Today's Progress**:  Finish everything in Javascript(including regular expression)
+
+**Thoughts:** Framework from tomorrow!!!
+
+**Link to work:** https://www.freecodecamp.org/ 
