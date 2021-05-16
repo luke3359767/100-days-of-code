@@ -101,10 +101,16 @@
 
 
 
-
-### Day 12: May 13, 2021 
+### Day 13: May 14, 2021 
 **Today's Progress**:  Finish everything in Javascript(including regular expression)
 
 **Thoughts:** Framework from tomorrow!!!
+
+**Link to work:** https://www.freecodecamp.org/ 
+
+### Day 14: May 15, 2021 
+**Today's Progress**:  Watching a video about bootstrap and practice on freecodecamp
+
+**Thoughts:** Bootstrap is more convenient, I hope to finish this early.
 
 **Link to work:** https://www.freecodecamp.org/ 
