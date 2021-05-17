@@ -100,7 +100,6 @@
 **Link to work:** https://www.freecodecamp.org/ 
 
 
-
 ### Day 13: May 14, 2021 
 **Today's Progress**:  Finish everything in Javascript(including regular expression)
 
@@ -114,3 +113,10 @@
 **Thoughts:** Bootstrap is more convenient, I hope to finish this early.
 
 **Link to work:** https://www.freecodecamp.org/ 
+
+### Day 15: May 16, 2021 
+**Today's Progress**:  Finish a 1.5 hour video about boostrap, start to learn Sass 
+
+**Thoughts:** I want to skip Jquery and just start React, but I still not familier with using vanilla JS on web 
+
+**Link to work:** https://www.freecodecamp.org/ https://www.youtube.com/watch?v=rQryOSyfXmI&list=PLl1gkwYU90QkvmT4uLM5jzLsotJZtLHgW&index=1
