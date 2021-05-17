@@ -120,3 +120,11 @@
 **Thoughts:** I want to skip Jquery and just start React, but I still not familier with using vanilla JS on web 
 
 **Link to work:** https://www.freecodecamp.org/ https://www.youtube.com/watch?v=rQryOSyfXmI&list=PLl1gkwYU90QkvmT4uLM5jzLsotJZtLHgW&index=1
+
+### Day 16: May 17, 2021 
+**Today's Progress**:  Finish to learn Sass, start to learn React.js
+
+**Thoughts:** SASS is SUPER cool!!! It will kill me to change back to nomal CSS. I think I will study bootstrap after I learn React, but I heard that react has much to learn.
+
+**Link to work:** https://www.freecodecamp.org/
+
