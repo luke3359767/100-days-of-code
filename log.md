@@ -128,3 +128,10 @@
 
 **Link to work:** https://www.freecodecamp.org/
 
+
+### Day 16: May 17, 2021 
+**Today's Progress**:  Start doing a thing called Javascript30, fisnish 3 days in a day.
+**Thoughts:** I use this to practice my Javascript DOM because I think I need to ge femillier with this before jump into react. 
+
+**Link to work:** https://github.com/luke3359767/JavaScript30(1~3)
+
