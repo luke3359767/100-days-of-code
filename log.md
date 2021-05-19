@@ -144,11 +144,11 @@
 **Link to work:** https://github.com/luke3359767/JavaScript30  (4~8)
 
 
-### Day 18: May 19, 2021 
-**Today's Progress**:  Doing Javascript30, fisnish 3 days in a day. Learn React.
+### Day 19: May 20, 2021 
+**Today's Progress**:  Doing Javascript30, fisnish 3 days in a day. Learn some React.
 
 **Thoughts:** I learned how to make a video player, which is very interesting
 
-**Link to work:** https://github.com/luke3359767/JavaScript30  (4~8)
+**Link to work:** https://github.com/luke3359767/JavaScript30  (9~11)
 
 
