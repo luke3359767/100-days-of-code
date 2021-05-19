@@ -129,10 +129,17 @@
 **Link to work:** https://www.freecodecamp.org/
 
 
-### Day 16: May 17, 2021 
+### Day 17: May 18, 2021 
 **Today's Progress**:  Start doing a thing called Javascript30, fisnish 3 days in a day.
 
 **Thoughts:** I use this to practice my Javascript DOM because I think I need to ge femillier with this before jump into react. 
 
-**Link to work:** https://github.com/luke3359767/JavaScript30(1~3)
+**Link to work:** https://github.com/luke3359767/JavaScript30  (1~3)
+
+### Day 18: May 19, 2021 
+**Today's Progress**:  Doing Javascript30, fisnish 5 days in a day.
+
+**Thoughts:** Yo This is fun, and it makes me more understand JS DOM and some methods such as reduce, filter, sort, and map
+
+**Link to work:** https://github.com/luke3359767/JavaScript30  (4~8)
 
