@@ -152,7 +152,7 @@
 
 
 ### Day 20: May 21, 2021 
-**Today's Progress**:  Doing Javascript30, fisnish 3 days in a day. Learn some React(build components).
+**Today's Progress**:  Doing Javascript30, fisnish 3 days in a day. Learn some React(Video 1~10).
 
 **Thoughts:** I learned some react, and it is so POWERFUL.
 
