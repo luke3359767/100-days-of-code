@@ -145,9 +145,9 @@
 
 
 ### Day 19: May 20, 2021 
-**Today's Progress**:  Doing Javascript30, fisnish 3 days in a day. Learn some React.
+**Today's Progress**:  Doing Javascript30, fisnish 3 days in a day. Learn some React(build components).
 
-**Thoughts:** I learned how to make a video player, which is very interesting
+**Thoughts:** I learned some react, and it is so POWERFUL.
 
 **Link to work:** https://github.com/luke3359767/JavaScript30  (9~11)
 
