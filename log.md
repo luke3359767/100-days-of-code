@@ -165,3 +165,11 @@
 
 **Link to work:** https://github.com/luke3359767/JavaScript30  (15~17)
 
+
+### Day 22: May 23, 2021 
+**Today's Progress**:  Doing Javascript30, fisnish 3 days in a day. Learn some React(Video 18~21).
+
+**Thoughts:** I hope I can finish the videos 30 in at most two days
+
+**Link to work:** https://github.com/luke3359767/JavaScript30  (18~20)
+
