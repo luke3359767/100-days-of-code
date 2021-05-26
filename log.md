@@ -191,3 +191,11 @@
 
 **Link to work:** https://github.com/luke3359767/JavaScript30  (25~27)
 
+
+### Day 25: May 26, 2021 
+**Today's Progress**:  Finish Javascript30.
+
+**Thoughts:** I learn react again because I'm still not familier with it.
+
+**Link to work:** https://github.com/luke3359767/JavaScript30  
+
