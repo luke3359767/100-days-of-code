@@ -199,3 +199,11 @@
 
 **Link to work:** https://github.com/luke3359767/JavaScript30  
 
+### Day 26: May 27, 2021 
+**Today's Progress**:  Watching the Intro to React v6 in Fronted Master.
+
+**Thoughts:** Thanks to the github student pack, it is free!!!
+
+**Link to work:** https://frontendmasters.com/  
+
+
