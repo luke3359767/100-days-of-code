@@ -206,4 +206,12 @@
 
 **Link to work:** https://frontendmasters.com/  
 
+### Day 27: May 28, 2021 
+**Today's Progress**:  Watching the Intro to React v6 in Fronted Master.
+
+**Thoughts:** I learned that the new version react has a lot different from the older version
+
+**Link to work:** https://frontendmasters.com/  
+
+
 
